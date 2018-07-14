@@ -1,2 +1,2 @@
 # kafka-csharp-tests
-Testin of Kafka client for C#
+Testing of Kafka client for C#
